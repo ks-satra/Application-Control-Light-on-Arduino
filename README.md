@@ -1,5 +1,5 @@
 # Installation
-  1. Arduino link https://www.arduino.cc/en/main/software
+  1. Arduino IDE link https://www.arduino.cc/en/main/software
   2. Blynk link https://www.blynk.cc/
 
 # Documentation
