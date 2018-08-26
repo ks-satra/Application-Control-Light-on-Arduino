@@ -3,4 +3,4 @@
   2. Blynk link https://www.blynk.cc/
 
 # Documentation
-Please see the documentation <a href="https://www.blynk.cc/">here.</a> Contributions are welcome!
+Please see the documentation <a href="https://www.instructables.com/id/ESP8266-ESP-12Standalone-Blynk-101/">here.</a> Contributions are welcome!
